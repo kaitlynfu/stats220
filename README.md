@@ -2,7 +2,7 @@
 
 `STATS 220: Data Technologies`
 
-###  ♡ Join me in my adventures and discoveries through coding  ♡
+###  ♡ Join me in my discoveries through coding  ♡
 
 *Programming Languages I will be demonstrating within this repo:*
 1. HTML (CSS)
