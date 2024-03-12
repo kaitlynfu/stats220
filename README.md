@@ -16,9 +16,9 @@
 - Switzerland
 - New York
 
-Best cities in 2024: [Visit](https://www.timeout.com/things-to-do/best-cities-in-the-world)
+`Best cities in 2024:` [Visit](https://www.timeout.com/things-to-do/best-cities-in-the-world)
 
-Here are some beautiful destinations to visit:
+*Here are some beautiful destinations to visit:*
 [Check out this link!](https://www.travelandleisure.com/trip-ideas/most-beautiful-places-in-the-world-to-visit)
 
 **Best Wishes!**
