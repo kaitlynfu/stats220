@@ -2,6 +2,8 @@
 
 `STATS 220: Data Technologies`
 
+Hi! I'm currently a third-year student at the University of Auckland, pursuing a BSc/BCom conjoint majoring in Computer Science and Finance. I am excited to explore what STATS 220 has to offer and further enhance my learning in data technologies.
+
 ###  ♡ Join me in my discoveries through coding  ♡
 
 *Programming Languages I will be demonstrating within this repo:*
